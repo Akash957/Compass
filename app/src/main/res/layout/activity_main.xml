@@ -26,6 +26,7 @@
         android:text="Degree of rotation"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
+        android:textColor="#FF5722"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
